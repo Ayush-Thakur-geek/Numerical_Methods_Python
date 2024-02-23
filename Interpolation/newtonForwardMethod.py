@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
-img = mpimg.imread('newton-forward-interpolation-formula.webp')
+img = mpimg.imread('images/newton-forward-interpolation-formula.webp')
 imgplot = plt.imshow(img)
 plt.show()
 
